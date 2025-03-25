@@ -1,5 +1,5 @@
 //data.field.image[0].url
-
+//Part 3
 import{getPosts}from'./api.js';
 async function displayPosts() {
     const container=document.getElementById('postContainer');
